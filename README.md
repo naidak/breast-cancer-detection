@@ -1,4 +1,4 @@
-Intelligent Agent for Breast Cancer Prediction
+**Intelligent Agent for Breast Cancer Prediction**
 
 Project Description:
 The goal of this project is to develop an application that uses a predictive machine learning model for classifying medical data into two categories: malignant and benign tumors. The model will be developed based on a dataset that includes various tumor characteristics, such as size, shape, texture, and other parameters.
